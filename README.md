@@ -15,15 +15,19 @@ IMDBCloneApp is a clone app off IMDB APP. You can login your account and you can
   <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/cikisdiyalog.png" alt="SS5" />
   <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/listfilmler.png" alt="SS5" />
  <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/gridfilmler.png" alt="SS5" />
- <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/filmdetay.png" alt="SS5" />
-
+ <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/filmdetay.png" alt="SS5" /
 
 </p>
+ 
+ 
 ## Usage
-<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
+<p float="left">
+ <img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
 <img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
 <img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
 <img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif" alt="SS4"/>
+
+</p>
 
 
 ## MVVM Architecture
