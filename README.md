@@ -4,9 +4,7 @@
 # IMDB Clone App
 ![appicon](https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/ic_launcher.png)
 
- Rolex Watches Listing App is sort of listing app that list specific brand which is Rolex watches.
-
-The main scope of this project is using Rxjava and Retrofit technologies and fundamentals of JSON in Android project.
+IMDBCloneApp is a clone app off IMDB APP. You can login your account and you can see  movies's category, movies list and grid view. You can tap to movies and see detailed information about movies.
 
  <h2 id="Screens">Screens</h2>
 <p>
