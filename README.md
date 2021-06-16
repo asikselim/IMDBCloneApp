@@ -22,17 +22,18 @@ The main scope of this project is using Rxjava and Retrofit technologies and fun
 
 </p>
 ## Usage
-<img src="https://user-images.githubusercontent.com/53263815/113519090-c05cc080-9592-11eb-985d-913935ffdc76.gif" width="250" />
+<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2.gif" />
 
 ## MVVM Architecture
 ![Architecture](https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/paketyapisi.png)
 
 ## Libraries and tools 🛠
-<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
-<li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
-<li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
-<li><a href="https://github.com/square/retrofit">Retrofit</a></li>
+<li><a href="https://firebase.google.com">Firebase</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
+<li><a href="https://developer.android.com/topic/libraries/data-binding">DataBinding</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/coroutines">Coroutines</a></li>
 <li><a href="https://developer.android.com/jetpack/androidx/releases/cardview">CardView</a></li>
 <li><a href="https://developer.android.com/reference/android/app/AlertDialog">AlertDialog</a></li>
 
