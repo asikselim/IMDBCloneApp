@@ -10,16 +10,20 @@ The main scope of this project is using Rxjava and Retrofit technologies and fun
 
  <h2 id="Screens">Screens</h2>
 <p>
-  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/SplashScreen.png" alt="SS4" />
-  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/InternetDialog.png" alt="SS4"/>
-  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/AnaEkran.png" alt="SS4" />
-  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/ÇıkışDialog.png" alt="SS4" />
-  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/DetayEkranı.png" alt="SS5" />
+  <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/splashekrani.png" alt="SS4" />
+ <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/internet%20kontrol.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/loginekrani.png" alt="SS4"/>
+  <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/kategorilerekrani.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/cikisdiyalog.png" alt="SS5" />
+  <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/listfilmler.png" alt="SS5" />
+ <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/gridfilmler.png" alt="SS5" />
+ <img height= "300"  src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/filmdetay.png" alt="SS5" />
+
 
 </p>
 
-## Clean Simple Architecture
-![Architecture](https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/model_yapisi.png)
+## MVVM Architecture
+![Architecture](https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/paketyapisi.png)
 
 ## Libraries and tools 🛠
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
