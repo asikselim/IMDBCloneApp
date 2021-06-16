@@ -22,10 +22,10 @@ IMDBCloneApp is a clone app off IMDB APP. You can login your account and you can
  
 ## Usage
 <p float="left">
- <img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
-<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
-<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif"alt="SS4" />
-<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/1_0_GIF_2%202.gif" alt="SS4"/>
+ <img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/splashgif.gif"alt="SS4" />
+<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/logingif.gif"alt="SS4" />
+<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/kategorilergif.gif"alt="SS4" />
+<img src="https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/detay.gif" alt="SS4"/>
 
 </p>
 
