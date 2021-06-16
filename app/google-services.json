@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857795218469",
+    "firebase_url": "https://imdbapp-f131d-default-rtdb.firebaseio.com",
+    "project_id": "imdbapp-f131d",
+    "storage_bucket": "imdbapp-f131d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857795218469:android:941c7467ace45f84bf83cc",
+        "android_client_info": {
+          "package_name": "com.selimasik.imdbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857795218469-15oe6lqmb6e03bqu3q1qp2rsi0q34cdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZ8ajei1sXJSVZ7d5g1pvN3j4vivXXN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857795218469-15oe6lqmb6e03bqu3q1qp2rsi0q34cdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

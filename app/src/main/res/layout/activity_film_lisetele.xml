@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.filmKategoriListeleme.KategoriListesiActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/imdb_gri"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/otuzdokuzdp"
+            android:layout_marginTop="@dimen/ellialtidp"
+            android:layout_marginEnd="@dimen/ucyuzdp"
+            android:text="Filmler"
+            android:textSize="@dimen/yirmidortsp"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcv_filmler"
+        android:layout_width="@dimen/ucyuzdoksandp"
+        android:layout_height="@dimen/altiyuzsekizdp"
+        android:layout_marginTop="@dimen/altmisaltidp"
+        android:layout_marginBottom="@dimen/ondp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+        app:layout_constraintVertical_bias="0.0"
+        tools:listitem="@layout/cardview_filmlistele" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="@dimen/ellidp"
+        android:layout_height="@dimen/ellidp"
+        android:layout_marginTop="@dimen/ucyuzaltmisdortdp"
+        app:layout_constraintBottom_toBottomOf="@+id/rcv_filmKategoriler"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_listLayout"
+        android:layout_width="@dimen/kirkbesdp"
+        android:layout_height="@dimen/kirkbesdp"
+        android:layout_marginStart="@dimen/ucyuzdokuzdp"
+        android:layout_marginTop="@dimen/dortdp"
+        android:background="@drawable/listlayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout" />
+
+    <Button
+        android:id="@+id/btn_gridLayout"
+        android:layout_width="@dimen/kirkbesdp"
+        android:layout_height="@dimen/kirkbesdp"
+        android:layout_marginStart="@dimen/ondp"
+        android:layout_marginTop="@dimen/dortdp"
+        android:layout_marginEnd="@dimen/besdp"
+        android:background="@drawable/gridlayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btn_listLayout"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

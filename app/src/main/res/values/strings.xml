@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">imdbApp</string>
+    <string name="filmler">Filmler</string>
+    <string name="film_kategorisi">FilmKategorisi</string>
+    <string name="splash_activity">SplashActivity</string>
+    <string name="kategori_listes_activity">KategoriListesiActivity</string>
+    <string name="veriler_bos_gecilemez"> Alanlar boş geçilemez</string>
+    <string name="giris_basarili">Giriş Başarılı</string>
+    <string name="kullanici_bulunamadi">Kullanıcı bulunamadı!</string>
+    <string name="kapat">Kapat</string>
+    <string name="ayaralara_git">Ayarlara Git</string>
+    <string name="uyari">Uyarı!</string>
+    <string name="progress">progress</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="cikmak_istediginize_eminmisiniz">Çıkmak istediğinize emin misiniz,?</string>
+    <string name="internet_yok_mesaj">İnterneti açmanız gerekmektedir. Ayarlara gitmek için ayarlara git butonuna basın ya da kapat butonuna basın.</string>
+
+
+</resources>

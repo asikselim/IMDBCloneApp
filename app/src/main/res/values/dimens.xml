@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="otuzdokuzdp">39dp</dimen>
+    <dimen name="ellialtidp">56dp</dimen>
+    <dimen name="ucyuzdp">300dp</dimen>
+    <dimen name="yirmidortsp">24sp</dimen>
+    <dimen name="ondp">10dp</dimen>
+    <dimen name="ellidp">50dp</dimen>
+    <dimen name="ucyuzaltmisdortdp">364dp</dimen>
+    <dimen name="ellisekiz">58dp</dimen>
+    <dimen name="altmisaltidp">66dp</dimen>
+    <dimen name="otuzbesdp">35dp</dimen>
+    <dimen name="yirmidp">20dp</dimen>
+    <dimen name="yuzbirdp">101dp</dimen>
+    <dimen name="kirkdp">40dp</dimen>
+    <dimen name="yuzdortdp">104dp</dimen>
+    <dimen name="dortyüzonyedidp">417dp</dimen>
+    <dimen name="onucdp">13dp</dimen>
+    <dimen name="kirksekizdp">48dp</dimen>
+    <dimen name="ikiyuzyetmisbirdp">271dp</dimen>
+    <dimen name="onsekizdp">18dp</dimen>
+    <dimen name="dortdp">4dp</dimen>
+    <dimen name="onaltidp">16dp</dimen>
+    <dimen name="besyuzkirkyedidp">547dp</dimen>
+    <dimen name="yuzotuzsekizdp">138dp</dimen>
+    <dimen name="besdp">5dp</dimen>
+    <dimen name="ikiyuzyedidp">207dp</dimen>
+    <dimen name="doksanikidp">92dp</dimen>
+    <dimen name="yuzdoksanuc">193dp</dimen>
+    <dimen name="yirmiyedidp">27dp</dimen>
+    <dimen name="yirmisp">20sp</dimen>
+    <dimen name="otuzdp">30dp</dimen>
+    <dimen name="ucyuzseksensekizdp">388dp</dimen>
+    <dimen name="ikiyuzyirmiikidp">222dp</dimen>
+    <dimen name="seksenaltidp">86dp</dimen>
+    <dimen name="yetmisikidp">72dp</dimen>
+    <dimen name="ucyuzdokuzdp">309dp</dimen>
+    <dimen name="yuzkirkbesdp">145dp</dimen>
+    <dimen name="seksendp">80dp</dimen>
+    <dimen name="ucyuzdoksandp">390dp</dimen>
+    <dimen name="altiyuzsekizdp">608dp</dimen>
+    <dimen name="kirkbesdp">45dp</dimen>
+    <dimen name="yuzseksensekizdp">188dp</dimen>
+    <dimen name="yuzellibesdp">188dp</dimen>
+    <dimen name="onsekizsp">18sp</dimen>
+
+
+
+
+
+</resources>

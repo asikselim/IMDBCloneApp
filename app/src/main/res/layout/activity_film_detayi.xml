@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.detay.FilmDetayiActivity">
+
+    <TextView
+        android:id="@+id/txt_filmDetayAdi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/otuzdp"
+        android:text="film adi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/img_filmDetay"
+        android:layout_width="@dimen/ucyuzseksensekizdp"
+        android:layout_height="@dimen/ikiyuzyirmiikidp"
+        android:layout_marginStart="@dimen/seksenaltidp"
+        android:layout_marginTop="@dimen/ellialtidp"
+        android:layout_marginEnd="@dimen/seksenaltidp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_filmDetayAdi"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/txt_filmDetayKategori"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/kirksekizdp"
+        android:layout_marginTop="@dimen/yetmisikidp"
+        android:text="TextView"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_filmDetay" />
+
+    <TextView
+        android:id="@+id/txt_filmDetayCikisTarihi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/yetmisikidp"
+        android:text="TextView"
+        android:textSize="@dimen/onsekizsp"
+        app:layout_constraintEnd_toStartOf="@+id/txt_filmDetayYildiz"
+        app:layout_constraintStart_toEndOf="@+id/txt_filmDetayKategori"
+        app:layout_constraintTop_toBottomOf="@+id/img_filmDetay" />
+
+    <TextView
+        android:id="@+id/txt_filmDetayYildiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/yetmisikidp"
+        android:layout_marginEnd="@dimen/kirkbesdp"
+        android:text="TextView"
+        android:textSize="@dimen/onsekizsp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_filmDetay" />
+
+    <TextView
+        android:id="@+id/txt_filmDetayAciklama"
+        android:layout_width="@dimen/ucyuzdokuzdp"
+        android:layout_height="@dimen/yuzkirkbesdp"
+        android:layout_marginTop="@dimen/seksendp"
+        android:text="TextView"
+        android:textSize="@dimen/onsekizsp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_filmDetayCikisTarihi"
+        app:layout_constraintVertical_bias="0.122" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/kirksekizdp"
+        android:layout_marginTop="@dimen/yetmisikidp"
+        android:text="⭐"
+        app:layout_constraintEnd_toStartOf="@+id/txt_filmDetayYildiz"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/txt_filmDetayCikisTarihi"
+        app:layout_constraintTop_toBottomOf="@+id/img_filmDetay" />
+</androidx.constraintlayout.widget.ConstraintLayout>
