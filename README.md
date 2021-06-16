@@ -21,6 +21,8 @@ The main scope of this project is using Rxjava and Retrofit technologies and fun
 
 
 </p>
+## Usage
+<img src="https://user-images.githubusercontent.com/53263815/113519090-c05cc080-9592-11eb-985d-913935ffdc76.gif" width="250" />
 
 ## MVVM Architecture
 ![Architecture](https://github.com/asikselim/IMDBCloneApp/blob/main/Screens/paketyapisi.png)
